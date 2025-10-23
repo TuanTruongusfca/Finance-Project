@@ -9,7 +9,7 @@ The objective was to analyze an unreal startup’s financial data, forecast its 
 ---
 
 🎯 Objectives
-- Construct a **5-year financial forecast** for an early-stage startup.  
+- Construct a **financial forecast** for an early-stage startup.  
 - Develop a **dynamic cash flow model** linking income statement, balance sheet, and financing assumptions.  
 - Analyze **funding needs**, **break-even points**, and **profitability** over time.  
 - Provide **recommendations** on whether the startup’s business model is financially sustainable.
