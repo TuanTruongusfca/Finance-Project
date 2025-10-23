@@ -42,7 +42,7 @@ The objective was to analyze an unreal startup’s financial data, forecast its 
 ---
 
  📈 Key Outputs
-- 5-year **financial forecast** model  
+- **financial forecast** model  
 - **Cash flow statement** with dynamic linkages  
 - **Scenario analysis dashboard** (base, optimistic, and pessimistic cases)  
 - Final **recommendation report** summarizing financial outlook
